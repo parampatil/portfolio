@@ -25,3 +25,4 @@ References:
 2. Deploying Vite: https://github.com/ErickKS/vite-deploy?tab=readme-ov-file
 3. 3D Lib: https://docs.pmnd.rs/react-three-fiber/getting-started/examples#showcase, https://codesandbox.io/p/sandbox/ground-reflections-and-video-textures-bfplr?file=%2Fsrc%2FApp.js%3A27%2C43
 4. Reference Template: https://github.com/ladunjexa/reactjs18-3d-portfolio
+5. Navbar: https://tailwindcomponents.com/component/header-sidebar-dashboard
