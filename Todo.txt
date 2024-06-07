@@ -17,7 +17,7 @@ Examples:
 2. 3D Object Preview: https://codesandbox.io/p/sandbox/gatsby-stars-2csbr1?file=%2Fsrc%2Findex.js
 
 Features:
-1. Day/Night theme
+1. Day/Night theme - https://tailwindcss.com/docs/dark-mode
 2. 
 
 References:
